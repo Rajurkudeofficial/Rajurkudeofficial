@@ -13,7 +13,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=rajurkudeofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Life Quote
+
+> **“Life is just like code — every bug teaches a lesson, and every fix makes you stronger.”**  
+> — *Raj Urkude*
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajurkudeofficial&icon=0&color=0)](https://visitcount.itsvg.in)
