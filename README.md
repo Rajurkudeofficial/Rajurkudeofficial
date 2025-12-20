@@ -2,7 +2,8 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <div>
+  <!-- Text Section -->
+  <div style="flex: 1;">
     👋 Hey! I’m a student on the journey to becoming a developer & content creator.<br/><br/>
 
     ✨ <b>What I do:</b><br/>
@@ -19,11 +20,13 @@
     Let’s learn, build, and grow together! 💪
   </div>
 
-  <div>
+  <!-- Image Section -->
+  <div style="flex: 1;">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0b2FiOHc2b3FneGN4d2k1dHZ0bzRhN3kzcDZnOXVrM3huOGIwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="320"/>
   </div>
 
 </div>
+
 
 
 
