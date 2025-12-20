@@ -1,21 +1,30 @@
 # 💫 About Me:
 
-<img align="right" width="320"
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0b2FiOHc2b3FneGN4d2k1dHZ0bzRhN3kzcDZnOXVrM3huOGIwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-👋 Hey! I’m a student on the journey to becoming a developer & content creator.<br/>
+  <div>
+    👋 Hey! I’m a student on the journey to becoming a developer & content creator.<br/><br/>
 
-✨ What I do:
-💻 Build logic & solve problems with DSA
-🛠 Explore tech tools & create projects
-🎥 Edit photos & videos
-🎮 Enjoy gaming & 🏏 cricket<br/>
-🌱 My Passion & Goal:
-🚀 Help others solve coding challenges
-📈 Guide people to grow in tech & life
-💡 Create motivating & inspiring content<br/>
-Let’s learn, build, and grow together! 💪
-<br clear="right"/>
+    ✨ <b>What I do:</b><br/>
+    💻 Build logic & solve problems with DSA<br/>
+    🛠 Explore tech tools & create projects<br/>
+    🎥 Edit photos & videos<br/>
+    🎮 Enjoy gaming & 🏏 cricket<br/><br/>
+
+    🌱 <b>My Passion & Goal:</b><br/>
+    🚀 Help others solve coding challenges<br/>
+    📈 Guide people to grow in tech & life<br/>
+    💡 Create motivating & inspiring content<br/><br/>
+
+    Let’s learn, build, and grow together! 💪
+  </div>
+
+  <div>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0b2FiOHc2b3FneGN4d2k1dHZ0bzRhN3kzcDZnOXVrM3huOGIwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="320"/>
+  </div>
+
+</div>
+
 
 
 
