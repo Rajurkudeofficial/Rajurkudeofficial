@@ -8,12 +8,12 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0b2FiOHc2b3FneGN4d2k1d
 💻 Build logic & solve problems with DSA<br/>
 🛠 Explore tech tools & create projects<br/>
 🎥 Edit photos & videos<br/>
-🎮 Enjoy gaming & 🏏 cricket<br/><br/>
+🎮 Enjoy gaming & 🏏 cricket<br/>
 <br/>
 🌱 My Passion & Goal:<br/>
 🚀 Help others solve coding challenges<br/>
 📈 Guide people to grow in tech & life<br/>
-💡 Create motivating & inspiring content<br/><br/>
+💡 Create motivating & inspiring content<br/>
 
 Let’s learn, build, and grow together! 💪
 
