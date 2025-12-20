@@ -1,33 +1,16 @@
 # 💫 About Me:
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<img align="right" width="320"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0b2FiOHc2b3FneGN4d2k1dHZ0bzRhN3kzcDZnOXVrM3huOGIwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
 
-  <!-- Text Section -->
-  <div style="flex: 1;">
-    👋 Hey! I’m a student on the journey to becoming a developer & content creator.<br/><br/>
+🔭 I’m currently working on AI & ML projects using TensorFlow and Python  
+👯 I’m looking to collaborate on beginner-friendly open-source and ML projects  
+🤝 I’m looking for help with improving deep learning models and deployment  
+🌱 I’m currently learning CNNs, model optimization, and app development  
+💬 Ask me about Python, TensorFlow, Git/GitHub, and ML basics  
+⚡ Fun fact: I enjoy turning complex problems into simple code  
 
-    ✨ <b>What I do:</b><br/>
-    💻 Build logic & solve problems with DSA<br/>
-    🛠 Explore tech tools & create projects<br/>
-    🎥 Edit photos & videos<br/>
-    🎮 Enjoy gaming & 🏏 cricket<br/><br/>
-
-    🌱 <b>My Passion & Goal:</b><br/>
-    🚀 Help others solve coding challenges<br/>
-    📈 Guide people to grow in tech & life<br/>
-    💡 Create motivating & inspiring content<br/><br/>
-
-    Let’s learn, build, and grow together! 💪
-  </div>
-
-  <!-- Image Section -->
-  <div style="flex: 1;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0b2FiOHc2b3FneGN4d2k1dHZ0bzRhN3kzcDZnOXVrM3huOGIwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="320"/>
-  </div>
-
-</div>
-
-
+<br clear="right"/>
 
 
 
