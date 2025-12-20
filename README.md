@@ -1,21 +1,17 @@
 # 💫 About Me:
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border:none;">
-      🔭 I’m currently working on AI & ML projects using TensorFlow and Python<br>
-      👯 I’m looking to collaborate on beginner-friendly open-source and ML projects<br>
-      🤝 I’m looking for help with improving deep learning models and deployment<br>
-      🌱 I’m currently learning CNNs, model optimization, and app development<br>
-      💬 Ask me about Python, TensorFlow, Git/GitHub, and ML basics<br>
-      ⚡ Fun fact: I enjoy turning complex problems into simple code
-    </td>
-    <td width="30" style="border:none;"></td>
-    <td align="center" style="border:none;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0b2FiOHc2b3FneGN4d2k1dHZ0bzRhN3kzcDZnOXVrM3huOGIwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="320"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0b2FiOHc2b3FneGN4d2k1dHZ0bzRhN3kzcDZnOXVrM3huOGIwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
+
+🔭 I’m currently working on AI & ML projects using TensorFlow and Python  
+👯 I’m looking to collaborate on beginner-friendly open-source and ML projects  
+🤝 I’m looking for help with improving deep learning models and deployment  
+🌱 I’m currently learning CNNs, model optimization, and app development  
+💬 Ask me about Python, TensorFlow, Git/GitHub, and ML basics  
+⚡ Fun fact: I enjoy turning complex problems into simple code  
+
+<br clear="right"/>
+
 
 
 
